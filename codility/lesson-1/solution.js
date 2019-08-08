@@ -2,8 +2,8 @@
 // console.log('this is a debug message');
 
 function getMaxBinaryGap (N) {
-    // write your code in JavaScript (Node.js 8.9.4)
-    
+    // write your code in JavaScript
+
     let maxGaps = 0;
     let actualGaps = 0;
     
