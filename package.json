@@ -1,0 +1,23 @@
+{
+  "name": "my-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "testcoverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliolpiva/my-algorithms.git"
+  },
+  "author": "JulioLP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliolpiva/my-algorithms/issues"
+  },
+  "homepage": "https://github.com/juliolpiva/my-algorithms#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
