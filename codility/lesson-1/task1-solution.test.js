@@ -1,4 +1,4 @@
-const getMaxBinaryGap = require('./solution');
+const getMaxBinaryGap = require('./task1-solution');
 
 test('Input: string', () => {
     expect(getMaxBinaryGap('string')).toBe(0);
